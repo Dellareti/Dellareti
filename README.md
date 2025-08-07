@@ -11,7 +11,7 @@
 ### Stats
 
 <div>
- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Dellareti&layout=compact&show_icons=true&theme=dark" />
- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellareti&layout=compact&langs_count=8&theme=dark&hide=jupyter%20notebook,PLpgSQL,Makefile,VHDL" />
+ <img height="200em" src="https://streak-stats.demolab.com/?user=Dellareti&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10"/>
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellareti&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook,PLpgSQL,Makefile,VHDL" />
 
 </div>
