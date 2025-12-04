@@ -1,18 +1,11 @@
-## Hi there! 👋
+## Hey there! 👋
 
-### 💻 Software Developer
+I’m Ítalo, a Software Developer based in Brazil.
 
-- 🎓 I have a Technical degree in Systems Development from COLTEC (Technical College of UFMG) and I am an undergraduate student in Information Systems at UFMG (Federal University of Minas Gerais)
-- 💬 Ask me about C, C++, Python, JavaScript, TypeScript, Frontend and Backend Development in general.
-- 🌱 I'm currently learning more about Web Development and Workflow Automation
-- ⚡ Fun fact: Passionate about Asian culture and diving into learning Japanese to read original manga and understand my favorite anime without subtitles.
+#### About me
 
-<hr />
-
-### Stats
-
-<div>
- <img height="200em" src="https://streak-stats.vercel.app?user=Dellareti&theme=tokyonight&border_radius=3.5"/>
- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellareti&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook,PLpgSQL,Makefile,VHDL" />
-
-</div>
+* Information Systems undergraduate at [**UFMG**](https://www.ufmg.br/) with a technical background in Systems Development from [**COLTEC**](https://www.coltec.ufmg.br/) 
+* **Tech Stack:** React, Vue, Next,JavaScript, TypeScript, Django, FastAPI, Python, C/C++
+* Frontend and Backend Development Enthusiast
+* Currently learning more about **DevOps** and **Workflow Automation**.
+* [**View my Resume**]()
